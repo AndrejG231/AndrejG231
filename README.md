@@ -2,13 +2,12 @@
 - 👀 I’m interested in web development..
   - TypeScript
   - React
-  - NextJS
-  - Apollo
+  - Modern CSS
   - NodeJS
   - Express
   - GraphQL
   - PostgreSQL
   - Webpack
-  - Docker
 - 📫 You can reach me on:
   - andrej.germic@gmail.com
+  - linkedin: [Andrej Germič](https://www.linkedin.com/in/andrej-germic/)
