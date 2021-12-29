@@ -2,7 +2,9 @@
 - 👀 I’m interested in web development..
   - TypeScript
   - React
-  - Modern CSS
+  - Apollo
+  - Jest
+  - Cypress
   - NodeJS
   - Express
   - GraphQL
