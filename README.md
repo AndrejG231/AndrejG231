@@ -1,17 +1,15 @@
-Hi, I’m @AndrejG231  
-I’m interested in web development.
+@AndrejG231
+
+I’m full-stack web developer.
 
 I love working with:
 - TypeScript
 - React
-- Apollo
-- Jest
-- Cypress
+- NextJS
 - NodeJS
-- Express
 - GraphQL
-- PostgreSQL
-- Webpack  
+- Webpack
+- Docker
 
 You can reach me on:
 - andrej.germic@gmail.com
