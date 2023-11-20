@@ -14,4 +14,3 @@ I love working with:
 You can reach me on:
 - andrej.germic@gmail.com
 - [Andrej Germič | LinkedIn](https://www.linkedin.com/in/andrej-germic/)
-- [Andrej Germič | Stack Overflow](https://stackoverflow.com/users/story/17719285)
